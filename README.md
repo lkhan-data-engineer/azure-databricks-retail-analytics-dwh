@@ -2,7 +2,7 @@
 # Azure Databricks Retail Analytics Data Warehouse  
 **End-to-End Modern Data Platform | Medallion Architecture | Delta Live Tables | Power BI**
 
-![Banner](docs/screenshots/pipeline_overview.png)
+![Banner](https://github.com/lkhan-data-engineer/azure-databricks-retail-analytics-dwh/blob/main/Power%20BI%20Dashboard.png)
 
 Production-grade retail analytics data warehouse built entirely on Azure Databricks:
 - Incremental ingestion via **Auto Loader**
@@ -25,4 +25,4 @@ Azure Databricks • Delta Lake • Delta Live Tables • PySpark • SQL • Un
 ### Live Demo Screenshots
 | Pipeline Overview | Power BI Dashboard | SCD Type 2 History |
 |-------------------|--------------------|-------------------|
-| ![Workflow](docs/screenshots/workflow.png) | ![Dashboard](docs/screenshots/powerbi_full.png) | ![SCD2](docs/screenshots/scd2_example.png) |
+| ![Workflow](docs/screenshots/workflow.png) | ![Dashboard](https://github.com/lkhan-data-engineer/azure-databricks-retail-analytics-dwh/blob/main/Power%20BI%20Dashboard.png) | ![SCD2](docs/screenshots/scd2_example.png) |
