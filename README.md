@@ -25,4 +25,4 @@ Azure Databricks • Delta Lake • Delta Live Tables • PySpark • SQL • Un
 ### Live Demo Screenshots
 | Pipeline Overview | Power BI Dashboard | SCD Type 2 History |
 |-------------------|--------------------|-------------------|
-| ![Workflow](docs/screenshots/workflow.png) | ![Dashboard](https://github.com/lkhan-data-engineer/azure-databricks-retail-analytics-dwh/blob/main/Power%20BI%20Dashboard.png) | ![SCD2](docs/screenshots/scd2_example.png) |
+| ![Workflow](https://github.com/lkhan-data-engineer/azure-databricks-retail-analytics-dwh/blob/main/End-2-End-Pipeline.png) | ![Dashboard](https://github.com/lkhan-data-engineer/azure-databricks-retail-analytics-dwh/blob/main/Power%20BI%20Dashboard.png) | ![SCD2](docs/screenshots/scd2_example.png) |
