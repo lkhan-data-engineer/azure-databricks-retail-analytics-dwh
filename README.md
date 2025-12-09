@@ -23,6 +23,6 @@ Azure Databricks • Delta Lake • Delta Live Tables • PySpark • SQL • Un
 - Regional + category profitability dashboards
 
 ### Live Demo Screenshots
-| Pipeline Overview | Power BI Dashboard | SCD Type 2 History |
+| Pipeline Overview | Power BI Dashboard | SQL Query in SQL Editor |
 |-------------------|--------------------|-------------------|
 | ![Workflow](https://github.com/lkhan-data-engineer/azure-databricks-retail-analytics-dwh/blob/main/End-2-End-Pipeline.png) | ![Dashboard](https://github.com/lkhan-data-engineer/azure-databricks-retail-analytics-dwh/blob/main/Power%20BI%20Dashboard.png) | ![SCD2](docs/screenshots/scd2_example.png) |
