@@ -2,7 +2,7 @@
 # Azure Databricks Retail Analytics Data Warehouse  
 **End-to-End Modern Data Platform | Medallion Architecture | Delta Live Tables | Power BI**
 
-![Banner](https://github.com/lkhan-data-engineer/azure-databricks-retail-analytics-dwh/blob/main/Power%20BI%20Dashboard.png)
+[Official Report](https://github.com/lkhan-data-engineer/azure-databricks-retail-analytics-dwh/blob/main/E-2-E%20Project_MohdLaraibKhan.pdf)
 
 Production-grade retail analytics data warehouse built entirely on Azure Databricks:
 - Incremental ingestion via **Auto Loader**
